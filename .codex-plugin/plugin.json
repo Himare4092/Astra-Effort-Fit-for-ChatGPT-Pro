@@ -1,0 +1,20 @@
+{
+  "name": "astra-effort-fit-pro",
+  "version": "0.1.4",
+  "description": "Lunaによるエフォート審査と実行前承認（Pro向け）",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Astra Effort Fit — Pro",
+    "shortDescription": "実行前にLunaがeffortを審査。承認後に実行。",
+    "longDescription": "同期Hookで送信を停止し、GPT-5.6 Luna / low がeffortだけを審査します。画面で推奨effortを設定し、同じ指示をそのまま再送すると承認して実行できます。Hookの信頼設定が必要です。",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Effort Fitの導入と使い方を教えて"
+    ]
+  }
+}
