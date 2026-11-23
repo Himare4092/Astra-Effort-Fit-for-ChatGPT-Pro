@@ -47,4 +47,4 @@ Pending approval data is stored locally under `PLUGIN_DATA` and includes the ori
 
 ## License
 
-No license has been specified yet.
+[GNU General Public License v3.0](LICENSE)
